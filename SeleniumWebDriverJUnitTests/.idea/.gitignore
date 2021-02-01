@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\NOM\Desktop\OTI-master M\TP3\TP3_selenium\SeleniumWebDriver\SeleniumWebDriverJUnitTests\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
